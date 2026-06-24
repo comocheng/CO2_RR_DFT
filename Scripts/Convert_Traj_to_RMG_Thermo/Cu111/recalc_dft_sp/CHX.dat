@@ -1,0 +1,6 @@
+name = CHX
+heat_of_formation_0K = [135.26631979638643, 'kJ/mol']
+composition = {'H': 1, 'C': 1, 'N': 0, 'O': 0, 'Cu': 1}
+sites = 1
+adsorbate_mass = [13.018839999999999, 'amu']
+frequencies = [384.69, 387.63, 565.89, 604.65, 605.49, 3070.89, 'cm-1']

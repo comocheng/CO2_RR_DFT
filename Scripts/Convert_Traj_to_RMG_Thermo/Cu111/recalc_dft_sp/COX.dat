@@ -1,0 +1,6 @@
+name = COX
+heat_of_formation_0K = [-182.42984225200223, 'kJ/mol']
+composition = {'H': 0, 'C': 1, 'N': 0, 'O': 1, 'Cu': 1}
+sites = 1
+adsorbate_mass = [28.009999999999998, 'amu']
+frequencies = [119.9, 128.29, 244.74, 248.8, 274.96, 1811.98, 'cm-1']

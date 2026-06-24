@@ -1,0 +1,6 @@
+name = XCOXCO
+heat_of_formation_0K = [-199.50636343915454, 'kJ/mol']
+composition = {'H': 0, 'C': 2, 'N': 0, 'O': 2, 'Cu': 2}
+sites = 1
+adsorbate_mass = [56.019999999999996, 'amu']
+frequencies = [61.04, 79.9, 99.34, 184.23, 227.6, 310.03, 337.18, 365.59, 584.2, 648.68, 1381.86, 1459.94, 'cm-1']

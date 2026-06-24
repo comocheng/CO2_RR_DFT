@@ -1,0 +1,6 @@
+name = OCHOX
+heat_of_formation_0K = [-462.7909039367674, 'kJ/mol']
+composition = {'H': 1, 'C': 1, 'N': 0, 'O': 2, 'Cu3Sn': 1}
+sites = 1
+adsorbate_mass = [45.01684, 'amu']
+frequencies = [68.82, 92.58, 94.14, 270.99, 292.33, 294.82, 732.0, 979.21, 1312.24, 1325.64, 1532.06, 2936.42, 'cm-1']

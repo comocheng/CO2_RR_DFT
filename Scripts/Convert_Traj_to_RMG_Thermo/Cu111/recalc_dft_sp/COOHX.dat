@@ -1,0 +1,6 @@
+name = COOHX
+heat_of_formation_0K = [-386.7745613997749, 'kJ/mol']
+composition = {'H': 1, 'C': 1, 'N': 0, 'O': 2, 'Cu': 1}
+sites = 1
+adsorbate_mass = [45.01684, 'amu']
+frequencies = [12.47, 85.06, 99.3, 200.74, 265.41, 349.46, 643.59, 670.22, 1084.62, 1257.64, 1467.59, 3491.89, 'cm-1']

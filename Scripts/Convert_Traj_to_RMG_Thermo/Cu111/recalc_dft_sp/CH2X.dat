@@ -1,0 +1,6 @@
+name = CH2X
+heat_of_formation_0K = [77.21872540989385, 'kJ/mol']
+composition = {'H': 2, 'C': 1, 'N': 0, 'O': 0, 'Cu': 1}
+sites = 1
+adsorbate_mass = [14.026679999999999, 'amu']
+frequencies = [114.31, 238.05, 303.99, 395.97, 475.49, 644.05, 1305.57, 2873.28, 3017.1, 'cm-1']

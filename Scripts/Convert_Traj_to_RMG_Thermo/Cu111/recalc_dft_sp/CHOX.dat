@@ -1,0 +1,6 @@
+name = CHOX
+heat_of_formation_0K = [-105.04635029502693, 'kJ/mol']
+composition = {'H': 1, 'C': 1, 'N': 0, 'O': 1, 'Cu': 1}
+sites = 1
+adsorbate_mass = [29.01784, 'amu']
+frequencies = [28.39, 114.82, 132.36, 207.39, 439.58, 670.67, 1219.41, 1506.37, 2813.06, 'cm-1']
